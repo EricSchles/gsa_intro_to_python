@@ -50,7 +50,6 @@ or downloading and installing Python locally.  If at all possible, it is better 
 
 But if you are restricted from doing so, PythonAnywhere works.
 
-Week 2
 
 1. Write a Python program called create_file.py 
 
@@ -74,6 +73,9 @@ Python
 The file should then be writen back out as practicing_file_updating.txt.
 
 3. Create a directory called to_traverse and put the file two files created above in the directory.  Then from the directory above to_traverse put a python program called traverse_and_open.py.  This python program should change directories, read both the files into memory and then check if the two files contents are equal.
+
+Week 2
+
 
 * Introduction to Python Data Structures - Class 1 (class time 30 minutes)
 	* lists
