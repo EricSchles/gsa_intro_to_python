@@ -4,7 +4,7 @@ Welcome to introduction to Python!
 
 This three week class will prepare you to read and write basic python scripts.  No prior programming experience required!
 
-# Administrivia
+## Administrivia
 
 Some homework assignments are from hackerRank.  There are a few reasons for this:
 
@@ -12,10 +12,16 @@ Some homework assignments are from hackerRank.  There are a few reasons for this
 2. No installation required - you don't need Python locally in order to write code here.
 3. Solve real problems.
 
+## Requirements
+tktk
+
+---
+
 # Course Breakdown
 
-Week 1
+### Week 1
 
+**Mon, July 17**
 * Introduction to Python - Class 1 (class time 30 minutes)
 	* writing your first program
 	* understanding Python data types
@@ -29,10 +35,10 @@ Week 1
 	* introduction to import statements
 	* introduction to the os module
 
-Homework:
 
-Assignment for class 1:
+#### Week 1 / Homework
 
+**Assignment for class 1:**
 
 1. https://www.hackerrank.com/challenges/py-hello-world
 2. https://www.hackerrank.com/challenges/python-raw-input
@@ -42,40 +48,40 @@ Assignment for class 1:
 6. https://www.hackerrank.com/challenges/write-a-function
 7. https://www.hackerrank.com/challenges/python-print
 
-
-Assignment for class 2:
+**Assignment for class 2:**
 
 For this assignment you will be either creating an account on https://www.pythonanywhere.com
 or downloading and installing Python locally.  If at all possible, it is better to install python locally.
 
 But if you are restricted from doing so, PythonAnywhere works.
 
+1. Write a Python program called create_file.py
 
-1. Write a Python program called create_file.py 
-
-The program should create a file called practing_file_writing.txt.  The file should contain the following text:
+The program should create a file called `practing_file_writing.txt`.  The file should contain the following text:
 
 Hello!  You've successfully created this file with a program!  Congradulations!!!!
 
 2. Write a Python program called edit_file.py
 
-The program should open practicing_file_writing.txt and then add the following line to the end of the file:
+The program should open `practicing_file_writing.txt` and then add the following line to the end of the file:
 
 Sincerely,
 Python
 
-So the whole file should now look like: 
+So the whole file should now look like:
 
+```
 Hello!  You've successfully created this file with a program!  Congradulations!!!!
 Sincerely,
 Python
+```
 
-The file should then be writen back out as practicing_file_updating.txt.
+The file should then be writen back out as `practicing_file_updating.txt`.
 
-3. Create a directory called to_traverse and put the file two files created above in the directory.  Then from the directory above to_traverse put a python program called traverse_and_open.py.  This python program should change directories, read both the files into memory and then check if the two files contents are equal.
+3. Create a directory called `to_traverse` and put the file two files created above in the directory.  Then from the directory above `to_traverse` put a python program called `traverse_and_open.py`.  This python program should change directories, read both the files into memory and then check if the two files contents are equal.
 
-Week 2
 
+#### Week 2 / Homework
 
 * Introduction to Python Data Structures - Class 1 (class time 30 minutes)
 	* lists
@@ -90,7 +96,7 @@ Week 2
 	* using for loops to move from one directory to the next
 	* working with os.walk
 
-Week 3
+#### Week 3 / Homework
 
 * Introduction to methods - Class 1 (class time 30 minutes)
 	* methods on integers
